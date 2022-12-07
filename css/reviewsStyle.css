@@ -1,0 +1,73 @@
+* {
+  box-sizing: border-box;  
+  background-color: #F7ECDE;
+  margin:0;
+} 
+
+.about{
+    position:absolute;
+    height: 25px;
+    margin-top:4.8%;
+    margin-left: 66.5%;
+  }
+  
+  .reviews{
+    position:absolute;
+    height: 25px;
+    margin-top: 4.7%;
+    margin-left: 75.5%;
+  }
+  
+  .contact{
+    position:absolute;
+    height: 25px;
+    margin-top: 4.8%;
+    margin-left: 84.5%;
+  }
+
+  .homebutton{
+    position: absolute;
+    margin-top: 4.8%;
+    margin-left: 10%;
+    height: 40px;
+  }
+
+  .reviewMaria{
+    position:absolute;
+    margin-top: 12%;
+    margin-left: 12%;
+  }
+
+  .title2{
+    position: absolute;
+    margin-top: 15%;
+    margin-left: 64%;
+    color: #545940;
+    font-family: "Raleway";
+    font-size: 35px;
+    font-style: italic;
+    text-align: center;
+  }
+  .content1{
+    position: absolute;
+    color: #545940;
+    font-family: "Raleway";
+    font-weight: 100;
+    font-size: 20px;
+    text-align: left;
+    margin-top: 19%;
+    width: 26%;
+    margin-left: 64%;
+  }
+
+  .content2{
+    position: absolute;
+    color: #545940;
+    font-family: "Raleway";
+    font-weight: 400;
+    font-size: 17px;
+    text-align: left;
+    margin-top: 28%;
+    width: 26%;
+    margin-left: 64%;
+  }

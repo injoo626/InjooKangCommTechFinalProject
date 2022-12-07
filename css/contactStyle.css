@@ -1,0 +1,54 @@
+* {
+  box-sizing: border-box;  
+  background-color: #F7ECDE;
+  margin:0;
+} 
+
+.about{
+    position:absolute;
+    height: 25px;
+    margin-top:4.8%;
+    margin-left: 66.5%;
+  }
+  
+  .reviews{
+    position:absolute;
+    height: 25px;
+    margin-top: 4.7%;
+    margin-left: 75.5%;
+  }
+  
+  .contact{
+    position:absolute;
+    height: 25px;
+    margin-top: 4.8%;
+    margin-left: 84.5%;
+  }
+
+  .homebutton{
+    position: absolute;
+    margin-top: 4.8%;
+    margin-left: 10%;
+    height: 40px;
+  }
+
+  .title{
+    position: absolute;
+    margin-top: 16%;
+    margin-left: 35%;
+    color: #545940;
+    font-family: "DM Serif Display", sans-serif;
+    font-size: 90px;
+  }
+
+  .content{
+    position: absolute;
+    color: #545940;
+    font-family: "Raleway";
+    font-weight: 100;
+    font-size: 30px;
+    text-align: left;
+    margin-top: 30%;
+    width: 53%;
+    margin-left: 30%;
+  }
